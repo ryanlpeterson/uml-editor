@@ -2,7 +2,7 @@
 Editor for creating and printing UML diagrams.
 
 Authors:
-  fiVe
+  fiVe:
     Matt
     Tim
     Kelly
