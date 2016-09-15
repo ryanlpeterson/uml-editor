@@ -2,6 +2,10 @@
 Editor for creating and printing UML diagrams.
 
 Authors:
-fiVe
-  Ryan Peterson
+  fiVe
+    Matt
+    Tim
+    Kelly
+    Eric
+    Ryan
   
