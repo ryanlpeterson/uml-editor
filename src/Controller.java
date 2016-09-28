@@ -75,11 +75,19 @@ public class Controller {
 			currentRelation.toBack();
 			currentRelation = null;
 			addingRelation = false;
+		} else {
+			//invalid ending box
+			cancelCurrentRelation();
 		}
 	}
 	
 	public boolean isAddingRelation() {
 		return addingRelation;
+	}
+	
+	public void cancelCurrentRelation() {
+		addingRelation = false;
+		currentRelation = null;
 	}
 
 }
